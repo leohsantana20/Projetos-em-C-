@@ -30,7 +30,7 @@ namespace Review
     Console.WriteLine(myBirthday);
     Console.WriteLine(myLocation);
 
-// Conversão de Tipos de Dados usando conversão inplícita e explícita
+// Conversão de Tipos de Dados usando conversão implícita e explícita
 
     Console.WriteLine("Aqui está um exemplo de conversão implícita!");
     int myNumber = 20;
