@@ -7,7 +7,7 @@ namespace DogYears
         public static void Main(String[] args)
         {
 
-    // Descobrir a relação de um ano canino para um ano humano
+    // Descobrir a diferença de um ano canino para um ano humano
 
         int idadeMediaHumano = 80; // Valor pode ser alterado pelo qual você desejar
 		int idadeMediaCachorroGrande = 12;  // Valor pode ser alterado pelo qual você desejar

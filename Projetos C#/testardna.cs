@@ -20,7 +20,7 @@ namespace testarDNA
         // Supondo que o 5 caractére do DNA seja G ou T o mesmo sofre mutação.
         // Para verificar fazemos o seguinte.
 
-        Console.WriteLine(dnaResultado[4] "Ouve mutação.");
+        Console.WriteLine(dnaResultado[3]);
 
         }
     }
