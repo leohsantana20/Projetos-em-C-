@@ -12,18 +12,17 @@ public class Program
         Console.WriteLine("Digite as inbformações do usuário: ");
             string nomeDoUsuario = Console.ReadLine();
             int idadeDoUsuario = Convert.ToInt32(Console.ReadLine());
-            int dia = Convert.ToString(Console.ReadLine());
 
             string verificaNome = nomeDoUsuario;
             int verificaIdade = idadeDoUsuario;
 
             if (verificaIdade >= 18) {
-                Console.WriteLine("O usuário atingiu a maioridade!");
+                Console.WriteLine($"O usuário {nomeDoUsuario} possui {idadeDoUsuario} e portanto atingiu a maioridade!");
             
             }
 
             else if(verificaIdade <= 18) {
-                Console.WriteLine("O usuário não atingiu a maioridade.");
+                Console.WriteLine($"O usuário {nomeDoUsuario} possui {idadeDoUsuario} e portanto não atingiu a maioridade.");
                 
             }
 
