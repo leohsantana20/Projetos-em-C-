@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\pooJogoWalking\pooJogoWalking\obj\Debug\pooJogoWalking.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\pooJogoWalking\pooJogoWalking\obj\Debug\pooJogoWalking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\pooJogoWalking\pooJogoWalking\obj\Debug\pooJogoWalking.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\pooJogoWalking\pooJogoWalking\bin\Debug\pooJogoWalking.exe.config
+C:\Users\Admin\source\repos\pooJogoWalking\pooJogoWalking\bin\Debug\pooJogoWalking.exe
+C:\Users\Admin\source\repos\pooJogoWalking\pooJogoWalking\bin\Debug\pooJogoWalking.pdb
+C:\Users\Admin\source\repos\pooJogoWalking\pooJogoWalking\obj\Debug\pooJogoWalking.exe
+C:\Users\Admin\source\repos\pooJogoWalking\pooJogoWalking\obj\Debug\pooJogoWalking.pdb
