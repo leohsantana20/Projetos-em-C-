@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\pooAnimaisdDeEstimacao\pooAnimaisdDeEstimacao\bin\Debug\pooAnimaisdDeEstimacao.exe.config
+C:\Users\Admin\source\repos\pooAnimaisdDeEstimacao\pooAnimaisdDeEstimacao\bin\Debug\pooAnimaisdDeEstimacao.exe
+C:\Users\Admin\source\repos\pooAnimaisdDeEstimacao\pooAnimaisdDeEstimacao\bin\Debug\pooAnimaisdDeEstimacao.pdb
+C:\Users\Admin\source\repos\pooAnimaisdDeEstimacao\pooAnimaisdDeEstimacao\obj\Debug\pooAnimaisdDeEstimacao.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\pooAnimaisdDeEstimacao\pooAnimaisdDeEstimacao\obj\Debug\pooAnimaisdDeEstimacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\pooAnimaisdDeEstimacao\pooAnimaisdDeEstimacao\obj\Debug\pooAnimaisdDeEstimacao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\pooAnimaisdDeEstimacao\pooAnimaisdDeEstimacao\obj\Debug\pooAnimaisdDeEstimacao.exe
+C:\Users\Admin\source\repos\pooAnimaisdDeEstimacao\pooAnimaisdDeEstimacao\obj\Debug\pooAnimaisdDeEstimacao.pdb
