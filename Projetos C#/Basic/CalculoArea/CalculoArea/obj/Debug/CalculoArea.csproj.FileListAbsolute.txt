@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe.config
+C:\Users\Admin\source\repos\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe
+C:\Users\Admin\source\repos\CalculoArea\CalculoArea\bin\Debug\CalculoArea.pdb
+C:\Users\Admin\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.exe
+C:\Users\Admin\source\repos\CalculoArea\CalculoArea\obj\Debug\CalculoArea.pdb
